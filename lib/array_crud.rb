@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   #array ="wow", "I", "am", "really", "learning", "friday"]
-  element ="fri"
+  element ="friday"
   array.push(element)
   puts array.inspect 
 end
