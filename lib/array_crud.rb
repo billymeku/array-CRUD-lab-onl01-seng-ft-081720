@@ -8,7 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  element ="friday"
+  #array ="wow", "I", "am", "really", "learning", "friday"]
+  element ="fri"
   array.push(element)
   puts array.inspect 
 end
